@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------
+Information Description:
+Yutai Microelectronics has upgraded the Gigabit Ethernet chip series YT8531 to the YT8531XX-CA series.
+Therefore, this document provides a source explanation for the contents of this catalogue. Please be informed by the users.
+----------------------------------------------------------------------------------------
+The contents of the following three directories pertain to the YT8531 series of materials. They are not the latest YT8531XX-CA series materials, but the materials in both sets can be used interchangeably. Therefore, the document contents are basically the same and are provided for reference when studying the YT8531. 
+01. Datasheet
+02. Application Instructions
+03. Ref design
+----------------------------------------------------------------------------------------
+The following compressed file is the Linux driver source code package for Yutai Micro Network Chips. It is compatible with the driver for multiple series of network chips under Yutai Micro, including the latest upgraded series of YT8531XX-CA, etc.
+PHY Drivers.zip
+----------------------------------------------------------------------------------------
+The following two documents are supplementary explanations and are for the client's information.
+"PDN20231030 YT8531 Series Product Discontinuation Notice PDN V1.0"
+"Differences between YT8531 Series (End of Life model) and YT8531XX-CA Series (Alternative model)"
+----------------------------------------------------------------------------------------
