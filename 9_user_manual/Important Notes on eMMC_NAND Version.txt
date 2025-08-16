@@ -1,0 +1,5 @@
+Please note: The product is available in two versions: eMMC and NAND. The accompanying development/auxiliary documentation is based on the eMMC version.
+
+The NAND version has limited storage space and only retains the core hardware testing functions. Some software functions in the documentation are not supported.
+
+Please confirm the required version before purchasing.
